@@ -6,7 +6,7 @@ Profile page for the person
  # Preview
  
 ![1](https://user-images.githubusercontent.com/86790667/149514078-1692d620-d8c8-4afc-afe0-7519b447383a.png)
-![334](https://user-images.githubusercontent.com/86790667/149514133-3e8b73f3-11d5-4200-aa37-e7b3fd18f071.png![Uploading 334.png…]()
+![334](https://user-images.githubusercontent.com/86790667/149514133-3e8b73f3-11d5-4200-aa37-e7b3fd18f071.png)
 
 ![Screenshot 2022-01-14 151210](https://user-images.githubusercontent.com/86790667/149514396-f3d4a3b1-ef47-4481-bd29-9f19d55db13e.png)
 ![Screenshot 2022-01-14 151224](https://user-images.githubusercontent.com/86790667/149514331-87cac2fe-414e-46c8-a062-b4f0bdc3c25f.png)
